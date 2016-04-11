@@ -1,0 +1,10 @@
+c:\users\peter bondarenko\documents\visual studio 2013\Projects\DocuSignCodeChallenge\LeaveTheHouseApp\bin\Release\LeaveTheHouseApp.dll
+c:\users\peter bondarenko\documents\visual studio 2013\Projects\DocuSignCodeChallenge\LeaveTheHouseApp\bin\Release\LeaveTheHouseApp.pdb
+c:\users\peter bondarenko\documents\visual studio 2013\Projects\DocuSignCodeChallenge\LeaveTheHouseApp\obj\Release\LeaveTheHouseApp.csprojResolveAssemblyReference.cache
+c:\users\peter bondarenko\documents\visual studio 2013\Projects\DocuSignCodeChallenge\LeaveTheHouseApp\obj\Release\LeaveTheHouseApp.dll
+c:\users\peter bondarenko\documents\visual studio 2013\Projects\DocuSignCodeChallenge\LeaveTheHouseApp\obj\Release\LeaveTheHouseApp.pdb
+C:\DocuSignCodeChallenge\LeaveTheHouseApp\bin\Release\LeaveTheHouseApp.dll
+C:\DocuSignCodeChallenge\LeaveTheHouseApp\bin\Release\LeaveTheHouseApp.pdb
+C:\DocuSignCodeChallenge\LeaveTheHouseApp\obj\Release\LeaveTheHouseApp.csprojResolveAssemblyReference.cache
+C:\DocuSignCodeChallenge\LeaveTheHouseApp\obj\Release\LeaveTheHouseApp.dll
+C:\DocuSignCodeChallenge\LeaveTheHouseApp\obj\Release\LeaveTheHouseApp.pdb
